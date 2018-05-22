@@ -1,0 +1,17 @@
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\HelloWorldApi.Models\bin\Debug\HelloWorldApi.Models.dll
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\HelloWorldApi.Models\bin\Debug\HelloWorldApi.Models.pdb
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.dll
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.pdb
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\bin\Debug\HelloWorldApi.Models.dll
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\bin\Debug\HelloWorldApi.Models.pdb
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.dll
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorldApi\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.pdb
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApi\HelloWorldApi.Models\bin\Debug\HelloWorldApi.Models.dll
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApi\HelloWorldApi.Models\bin\Debug\HelloWorldApi.Models.pdb
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApi\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.csprojResolveAssemblyReference.cache
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApi\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.csproj.CoreCompileInputs.cache
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApi\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.dll
+C:\Users\Gene\Documents\Visual Studio 2017\Projects\HelloWorld\HelloWorldApi\HelloWorldApi.Models\obj\Debug\HelloWorldApi.Models.pdb
